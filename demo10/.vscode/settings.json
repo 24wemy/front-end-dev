@@ -1,0 +1,13 @@
+{
+  // Tingkat zoom jendela
+  "window.zoomLevel": 0,
+  
+  // Ukuran font editor
+  "editor.fontSize": 13,
+  
+  // Tema warna Workbench (disini menggunakan SynthWave '84)
+  "workbench.colorTheme": "SynthWave '84",
+  
+  // Tema ikon Workbench (kosongkan jika ingin menggunakan tema default)
+  "workbench.iconTheme": ""
+}
